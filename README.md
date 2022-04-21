@@ -1,2 +1,2 @@
 # práctica-markdown-02
-Práctica Markdown
+Mi primer repositorio
