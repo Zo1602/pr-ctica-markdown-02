@@ -1,2 +1,2 @@
-# pr-ctica-markdown-02
+# práctica-markdown-02
 Práctica Markdown
